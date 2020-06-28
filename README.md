@@ -20,6 +20,7 @@ This project is not actively developed but *will* accept Pull Requests.
 ## Prerequisites
 
 - A working internet connection
+- For XPS 9560 with BCM DW1560 wireless, install broadcom-wl: `pacman -Sy broadcom-wl`
 - Logged in as 'root'
 
 ## Obtaining The Repository
